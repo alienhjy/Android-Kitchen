@@ -13,3 +13,7 @@ https://github.com/dsixda/Android-Kitchen/archive/master.zip
 A list of supported devices, as well as release notes, setup instructions and FAQ are all found here:
 http://forum.xda-developers.com/showthread.php?p=5626292
 
+====== repo on alienhjy's github ======
+This repo is base on dsixda's Android Kitchen, and add support for MT65xx.
+As you known, the plugin for MT65xx is got form http://forum.xda-developers.com/showthread.php?t=1863153. Thank for your working, yuweng.
+
